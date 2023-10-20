@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.global-container{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+video{
+    object-fit: cover;
+  
+}
+
+.pink{
+    border:2px solid pink
+}
+.green{
+    border:2px solid green
+}
+.violet{
+    border:2px solid violet
+}
+
+.centrer{
+    padding: 0;
+}
